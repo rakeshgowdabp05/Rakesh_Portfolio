@@ -84,22 +84,6 @@ This project is intentionally built as a **clean static frontend** — no framew
 
 To keep this project a pure demonstration of core frontend fundamentals, the following are **deliberately excluded**:
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/❌_Node.js-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/❌_Express.js-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/❌_React-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/❌_Angular-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/❌_Vue-333333?style=flat-square"/>
-<br/>
-<img src="https://img.shields.io/badge/❌_Bootstrap-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/❌_Tailwind_CSS-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/❌_npm-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/❌_Backend_Server-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/❌_Database-333333?style=flat-square"/>
-
-</div>
-
 > ✅ 100% static HTML + CSS + Vanilla JavaScript. No build step required.
 
 ---

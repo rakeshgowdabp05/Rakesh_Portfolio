@@ -6,8 +6,6 @@ Rakesh_Portfolio_EmailJS_Patched/
 ├── thank-you.html
 ├── rakesh-profile.jpeg
 ├── Rakesh_CV05.pdf
-├── premium-emailjs-template.html
-├── CONTACT_FORM_SETUP.md
 ├── README.md
 └── PROJECT_STRUCTURE.md
 ```
